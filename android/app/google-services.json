@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408284785355",
+    "project_id": "facerec-780f0",
+    "storage_bucket": "facerec-780f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408284785355:android:2635cd7581da73ead6094e",
+        "android_client_info": {
+          "package_name": "com.example.iot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408284785355-92ao9f373qfpu1bcgc4uskst89n1rlc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dR_MZkHSBibZwdiI1a1VyOXNryS4wNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408284785355-92ao9f373qfpu1bcgc4uskst89n1rlc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
