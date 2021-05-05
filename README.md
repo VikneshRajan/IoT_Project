@@ -1,8 +1,11 @@
-# iot_app
+# Smart Home Automation
 
-A new Flutter application.
+In this project, we have implemented an App that was developed in Flutter to serve our purpose of making a Smart Home Automation. The circuit links for the Temperature Monitoring Circuit and Home Automation Circuit are Given below
 
-## Getting Started
+- [Temperature Monitoring Circuit](https://)
+- [Home Automation Circuit](https://)
+
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
