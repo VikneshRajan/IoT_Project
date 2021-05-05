@@ -9,8 +9,8 @@ In this project, we have implemented an App that was developed in Flutter to ser
 
 Flutter can run on many compilers. We are using Android studio for our use case. Download links of few compilers are mentioned below
 
--[Android Studio](https://developer.android.com/studio)
--[Microsoft Visual Studio Code](https://code.visualstudio.com/download)
+- [Android Studio](https://developer.android.com/studio)
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/download)
 
 ## Getting Started with Flutter
 
