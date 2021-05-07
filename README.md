@@ -5,6 +5,13 @@ In this project, we have implemented an App that was developed in Flutter to ser
 - [Temperature Monitoring Circuit](https://www.tinkercad.com/things/kWh3fe1qmO3-temperature-control/editel?sharecode=mQOH5_830OHEXxL0RrH566xjuNAMSPKgv_JmnkRvMg0)
 - [Home Automation Circuit](https://www.tinkercad.com/things/cZCvi4dg8gf-smart-home-solution/editel?sharecode=owRpARBzU0thA0SL1sZldnMSMi26yu8gD2qPSiMdXMA)
 
+We are using Flutter app to control the appliances connected in our smart home eco-system. For cross platform communication we are making use of the [ThingSpeak](https://thingspeak.com/) cloud API.
+
+Log in to ThingSpeak and create a channel, Enter the Channel ID and API key on the field specified on the Temperature Monitoring Circuit's code.
+
+
+
+
 ## Compilers
 
 Flutter can run on many compilers. We are using Android studio for our use case. Download links of few compilers are mentioned below
